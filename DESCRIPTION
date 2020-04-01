@@ -1,0 +1,13 @@
+Package: ismisc
+Title: Collection of usefull miscellanous functions
+Version: 0.0.0.001
+Authors@R: 
+    person(given = "Ismail",
+           family = "Müller",
+           role = c("aut", "cre"),
+           email = "muller.ismail@gmail.com")
+Description: This package is mainly a list of useful functions that I use.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
